@@ -62,5 +62,3 @@ class AreaCasa_aula09 {
 		else System.out.println("Erro: Valor da área negativo");
 	}
 }
-
-// Hello change
